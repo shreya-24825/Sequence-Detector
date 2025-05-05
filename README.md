@@ -84,6 +84,10 @@ module moore_sequence_detector (
     end
 endmodule
 
+OUTPUT:
+![Screenshot 2025-05-05 190524](https://github.com/user-attachments/assets/c0b7628e-f928-4be7-b0b6-9f3560ffc36b)
+
+
 Verilog Code for Sequence Detector Using Mealy FSM
 
 // mealy_sequence_detector.v
@@ -134,6 +138,10 @@ module mealy_sequence_detector (
         endcase
     end
 endmodule
+
+OUTPUT:
+![Screenshot 2025-05-05 191126](https://github.com/user-attachments/assets/8961a4ef-e434-491f-9619-e18b085f04c9)
+
 
 
 Testbench for Sequence Detector (Moore and Mealy FSMs)
